@@ -26,7 +26,7 @@ const MapContainer = styled.div`
 const MidInfoBar = styled.div`
   height: 60px;
   width: 100%;
-  background-color: green;
+  background-color: #34B379;
   position: relative;
 `
 
